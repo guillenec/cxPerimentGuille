@@ -66,7 +66,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b17e44b0-a0f8-448d-a299-e96223e351ce/deploy-status)](https://app.netlify.com/sites/silly-cassata-975da9/deploys)
 
 ### 🚂 Depoloy Railway
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/NeiLty?referralCode=ySCnWl)
+[![Deploy on Railway](https://railway.app/button.svg)](https://react-frontend-production-a1a0.up.railway.app/)
 
 </br>
 
